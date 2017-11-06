@@ -8,5 +8,6 @@ namespace 虚幻账号
 {
     class Person
     {
+        public string Name { get; set; }
     }
 }
